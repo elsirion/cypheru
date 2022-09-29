@@ -1,0 +1,9 @@
+.content {
+    margin: 0;
+}
+
+.federation-qr {
+    display: block;
+    max-width: 400px;
+    float: right;
+}
