@@ -35,6 +35,3 @@ If you want to try them out, come by, say hello and we can do some hacking toget
 * Please consider any personal funds sent to the wallet a donation. If you don't withdraw funds before this instance is shut down/migrated eventually all remaining funds will be donated.
 * While e-cash has great privacy properties, none of the available clients has bulletproof privacy on the network layer. Lighning invoices can also leak meta-data since we haven't implemented all the privacy techniques at that layer yet.
 * This is a 1-of-1 fake federation, if you want to experience the real deal come to our workshop on Friday 30th of September at 15:00 in the Institute of Cryptoanarchy.
-
-## What's next?
-You want to become part of this endeavor? Talk to us!
