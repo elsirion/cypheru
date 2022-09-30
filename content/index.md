@@ -22,7 +22,8 @@ We'll show you how to set up a wallet and give you some free sats for your first
 
 There are multiple ways to interact with this Fedimint instance. The main supported one is via the [Fluttermint mobile app](https://github.com/futurepaul/fluttermint). You can:
 
-* [Download the APK](https://github.com/futurepaul/fluttermint/releases/download/0.1.0/app-release.apk)
+* [Download the APK](https://github.com/futurepaul/fluttermint/releases/download/0.2.1/app-release.apk)
+* [Android App Store testflight](https://play.google.com/store/apps/details?id=com.justinmoon.fluttermint)
 * [Join iOS testflight](https://testflight.apple.com/join/Coep5PZS)
 
 Once you installed the app it will ask you to scan or paste the federation code shown to the right to join this federation.
